@@ -1,0 +1,1 @@
+"Anti-aliasing demo" by Robert Rayment.  There are a few anti-aliasing progs on PSC.  Mostly they are cleverly convoluted into several subs.  I thought I'd stretch out the logic - makes it easier for me to understand and maybe for some of you.
